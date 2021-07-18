@@ -1,0 +1,4 @@
+,
+  CONSTRAINT `FK_t_pemilihan_user` FOREIGN KEY (`user_id`) REFERENCES `m_user` (`user_id`) ON UPDATE CASCADE,
+  CONSTRAINT `t_pemilihan_ibfk_1` FOREIGN KEY (`pemilih_id`) REFERENCES `m_pemilih` (`pemilih_id`),
+  CONSTRAINT `t_pemilihan_ibfk_2` FOREIGN KEY (`calon_id`) REFERENCES `m_calon` (`calon_id`)

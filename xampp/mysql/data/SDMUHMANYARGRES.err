@@ -1,0 +1,131 @@
+160722 20:17:26  InnoDB: Started; log sequence number 0 2763831
+160722 20:17:26 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.67-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+160722 20:44:43 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+160722 20:44:43  InnoDB: Starting shutdown...
+160722 20:44:45  InnoDB: Shutdown completed; log sequence number 0 2763880
+160722 20:44:45 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+160723  4:30:30  InnoDB: Started; log sequence number 0 2763880
+160723  4:30:31 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.67-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+160723  5:43:19 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+160723  5:43:19  InnoDB: Starting shutdown...
+160723  5:43:22  InnoDB: Shutdown completed; log sequence number 0 2763890
+160723  5:43:22 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+160723  8:49:30  InnoDB: Started; log sequence number 0 2763890
+160723  8:49:30 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.67-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+160723  9:04:44 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+160723  9:04:44  InnoDB: Starting shutdown...
+160723  9:04:46  InnoDB: Shutdown completed; log sequence number 0 2763900
+160723  9:04:46 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+160723 13:00:34  InnoDB: Started; log sequence number 0 2763900
+160723 13:00:35 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.67-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+160723 13:13:05 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+160723 13:13:05  InnoDB: Starting shutdown...
+160723 13:13:07  InnoDB: Shutdown completed; log sequence number 0 2763910
+160723 13:13:07 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+160723 13:13:09  InnoDB: Started; log sequence number 0 2763910
+160723 13:13:09 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.67-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+160723 13:13:12 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+160723 13:13:12  InnoDB: Starting shutdown...
+160723 13:13:13  InnoDB: Shutdown completed; log sequence number 0 2763910
+160723 13:13:13 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+160723 13:40:09  InnoDB: Started; log sequence number 0 2763910
+160723 13:40:09 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.67-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+160723 13:56:18  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+160723 13:56:28  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+160723 13:56:38  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+160723 13:56:48  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+160723 13:56:58  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+160723 13:57:08  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+160723 13:57:18  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+160723 13:57:28  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+160723 13:57:38  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+160723 13:57:48  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+160723 13:57:58  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+160723 13:58:08  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+160723 13:58:18  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+160723 13:58:28  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+160723 13:58:38  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+160723 13:58:48  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+160723 13:58:58  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+160723 13:59:03 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+160723 13:59:03  InnoDB: Starting shutdown...
+160723 13:59:05  InnoDB: Shutdown completed; log sequence number 0 2763920
+160723 13:59:05 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+160723 13:59:08  InnoDB: Started; log sequence number 0 2763920
+160723 13:59:08 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.67-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+160723 13:59:19 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+160723 13:59:19  InnoDB: Starting shutdown...
+160723 13:59:20  InnoDB: Shutdown completed; log sequence number 0 2763920
+160723 13:59:20 [Note] mysql\bin\mysqld.exe: Shutdown complete
+

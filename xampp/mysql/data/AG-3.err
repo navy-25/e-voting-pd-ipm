@@ -1,0 +1,41 @@
+InnoDB: The first specified data file C:\Xampp\mysql\ibdata1 did not exist:
+InnoDB: a new database to be created!
+110213  7:41:17  InnoDB: Setting file C:\Xampp\mysql\ibdata1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+110213  7:41:17  InnoDB: Log file C:\Xampp\mysql\ib_logfile0 did not exist: new to be created
+InnoDB: Setting log file C:\Xampp\mysql\ib_logfile0 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+110213  7:41:17  InnoDB: Log file C:\Xampp\mysql\ib_logfile1 did not exist: new to be created
+InnoDB: Setting log file C:\Xampp\mysql\ib_logfile1 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+InnoDB: Doublewrite buffer not found: creating new
+InnoDB: Doublewrite buffer created
+InnoDB: Creating foreign key constraint system tables
+InnoDB: Foreign key constraint system tables created
+110213  7:41:17  InnoDB: Started; log sequence number 0 0
+110213  7:41:17 [Note] C:\Xampp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+110213  9:36:23 [Note] C:\Xampp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+110213  9:36:23  InnoDB: Starting shutdown...
+110213  9:36:24  InnoDB: Shutdown completed; log sequence number 0 222355
+110213  9:36:24 [Note] C:\Xampp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+110213  9:38:07  InnoDB: Started; log sequence number 0 222355
+110213  9:38:11 [Note] C:\Xampp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+110213 12:58:38 [Note] C:\Xampp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+110213 12:58:38  InnoDB: Starting shutdown...
+110213 12:58:39  InnoDB: Shutdown completed; log sequence number 0 222365
+110213 12:58:39 [Note] C:\Xampp\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+110213 13:01:52  InnoDB: Started; log sequence number 0 222365
+110213 13:01:55 [Note] C:\Xampp\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+110213 18:41:00 [Note] C:\Xampp\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+110213 18:41:00  InnoDB: Starting shutdown...
+110213 18:41:02  InnoDB: Shutdown completed; log sequence number 0 981765
+110213 18:41:02 [Note] C:\Xampp\mysql\bin\mysqld-nt.exe: Shutdown complete
+

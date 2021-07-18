@@ -1,0 +1,59 @@
+170916 12:32:19  InnoDB: Started; log sequence number 0 2961802
+170916 12:32:20 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.67-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+170916 17:21:29  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+170916 17:21:30  InnoDB: Started; log sequence number 0 2962099
+170916 17:21:30 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.67-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170916 18:46:56 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+170916 18:46:56  InnoDB: Starting shutdown...
+170916 18:46:59  InnoDB: Shutdown completed; log sequence number 0 2982802
+170916 18:46:59 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+170916 18:47:02  InnoDB: Started; log sequence number 0 2982802
+170916 18:47:02 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.67-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+170916 23:05:40  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+170916 23:05:40  InnoDB: Started; log sequence number 0 2990311
+170916 23:05:40 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.67-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170916 23:32:20 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+170916 23:32:20  InnoDB: Starting shutdown...
+170916 23:32:22  InnoDB: Shutdown completed; log sequence number 0 3003135
+170916 23:32:22 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+170916 23:32:24  InnoDB: Started; log sequence number 0 3003135
+170916 23:32:24 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.67-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170916 23:32:26 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+170916 23:32:26  InnoDB: Starting shutdown...
+170916 23:32:26  InnoDB: Shutdown completed; log sequence number 0 3003135
+170916 23:32:26 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+170917  5:20:55  InnoDB: Started; log sequence number 0 3003135
+170917  5:20:56 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.67-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170917  5:31:24 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+170917  5:31:24  InnoDB: Starting shutdown...
+170917  5:31:26  InnoDB: Shutdown completed; log sequence number 0 3003354
+170917  5:31:26 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+170917  7:44:56  InnoDB: Started; log sequence number 0 3003354
+170917  7:44:57 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.67-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)

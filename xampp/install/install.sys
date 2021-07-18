@@ -1,0 +1,8 @@
+DIR = C:\Xampp
+xampp = 1.6.8
+server = 1.6.8
+perl = 0
+python = 0
+utils = 0
+java = 0
+other = 0
